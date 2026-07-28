@@ -1,5 +1,6 @@
 import * as THREE from 'three';
 import './style.css';
+import "./script.js";
 import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import { EffectComposer } from 'three/examples/jsm/postprocessing/EffectComposer.js';
