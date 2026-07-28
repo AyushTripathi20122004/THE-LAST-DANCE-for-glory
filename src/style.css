@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+.playfair{
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+}
