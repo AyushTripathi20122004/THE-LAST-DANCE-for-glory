@@ -3,5 +3,6 @@ import tailwindcss from "@tailwindcss/vite";
 
 export default defineConfig({
   plugins: [tailwindcss()],
-  assetsInclude: ["**/*.glb","**/*.hdr"],
+  base:'/THE-LAST-DANCE-for-glory/',
+  assetsInclude: ["**/*.glb","**/*.hdr"]
 });
